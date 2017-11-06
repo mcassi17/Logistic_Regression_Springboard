@@ -1,2 +1,2 @@
-# Logistic_Regression_Springboard
+# Logistic Regression
 Assignment for Logistic Regression
